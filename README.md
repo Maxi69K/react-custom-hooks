@@ -1,6 +1,6 @@
 # react-custom-hooks
 
-Project done using HTML, CSS and vanila JavaScript.
+Project done using React.
 
 ### `react-custom-hooks` :point_right: [Live Demo](https://react-custom-hooks-maxi.netlify.app) :point_left: just do a CTRL+click (to open :link: in a new tab)
 
